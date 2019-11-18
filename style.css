@@ -1,0 +1,59 @@
+body{
+  background-color: lightgrey;;
+}
+
+
+.mainContainer{
+  margin-top: 50px;
+  width: 100%;
+  height: 100px;
+  text-align: center;
+}
+
+
+
+
+.mainContainer ol button{
+  width: 450px;
+  height: 40px;
+  text-align: left;
+  font-size: 18px;
+}
+
+.mainContainer ol p{
+  width: 450px;
+  height: 40px;
+  margin: 0 450px;
+  font-size: 18px;
+  
+}
+
+
+
+.quizHeader{
+  margin-bottom: 20px;
+}
+
+#quizDescription{
+  
+  width: 500px;
+  height: 100px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main{
+  margin-bottom: 20px;
+  font-size: 100px;
+  width:100%;
+  height: 25px;
+}
+
+#read{
+  margin: auto;
+  padding: 10px;
+  width:100%;
+  height: 25px;
+}
